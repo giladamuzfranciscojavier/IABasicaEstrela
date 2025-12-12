@@ -1,29 +1,3 @@
-# Descrición
+# IA Basica Estrela
 
-Emprega este arquivo para describir os cambios do teu proxecto.
-
-Utiliza o formato en markdown coas marcas básicas que aparcen no seguinte exemplo:
-
-# Título principal
-## Subtítulo
-
-Texto normal con **negriña** e *cursiva*.
-
-- Lista 1
-- Lista 2
-
-[Ligazón](https://exemplo.com)
-
-
-```csharp
-using UnityEngine;
-
-public class OlaMundo : MonoBehaviour
-{
-    void Start()
-    {
-        Debug.Log("Ola, mundo desde C#!");
-    }
-}
-
-```
+Reducido tamaño del mapa a la mitad (15x15), manteniendo el tamaño de los cubos y ajustando la cámara al nuevo mapa
